@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mathematics</string>
+    <string name="start">Start</string>
+    <string name="check">Check</string>
+    <string name="correct_answers_s_out_of_s">Correct answers %d out of %d in %d seconds</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings">Settings</string>
+    <string name="result_can_be_negative">Result can be negative</string>
+    <string name="number_of_terms">Number of terms</string>
+    <string name="max_item">Max item</string>
+    <string name="num_of_examples">Num of examples</string>
+</resources>

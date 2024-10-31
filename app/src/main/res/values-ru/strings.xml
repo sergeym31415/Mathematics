@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Матеша</string>
+    <string name="start">Старт</string>
+    <string name="check">Проверить</string>
+    <string name="correct_answers_s_out_of_s">Правильных ответов %d из %d за %d секунд</string>
+    <string name="settings">Настройки</string>
+    <string name="result_can_be_negative">Результат может быть отрицательным</string>
+    <string name="number_of_terms">Количество слагаемых</string>
+    <string name="max_item">Максимальный элемент</string>
+    <string name="num_of_examples">Количество примеров</string>
+</resources>
